@@ -1,29 +1,29 @@
 {
-  "name": "Chetan",
-  "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "name": "Phillip",
+  "headerTaglineOne": "Hello 👋 [Replace Emoji]",
+  "headerTaglineTwo": "I'm Phillip Sebole Masango,",
+  "headerTaglineThree": "Full-Stack Developer, based in Cape Town, ZA",
+  "headerTaglineFour": "",
   "showBlog": true,
   "darkMode": true,
   "socials": [
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/pmasango021"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/phillipsms"
     },
     {
       "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "title": "Vercel",
+      "link": "https://www.linkedin.com/in/phillipsms"
     },
     { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "5", "title": "Email", "link": "mailto:phillipsm@myself.com" }
   ],
   "projects": [
     {
@@ -115,9 +115,14 @@
       }
     ],
     "education": {
-      "universityName": "University X",
-      "universityDate": "2016-2020",
-      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+      "universityName": "WeThinkCode_",
+      "universityDate": "2021-2023",
+      "universityPara": "Full Stack Software Engineering",
+
+      "universityName2": "DataCamp",
+      "universityDate2": "2022-Present",
+      "universityPara2": "Data Manipulation, Machine Learning. Import, Clean, Manipulate, and Visualize Data."
+
     },
     "languages": ["Javascript", "HTML5", "CSS", "Python"],
     "frameworks": ["React", "Typescript", "NodeJs"],
