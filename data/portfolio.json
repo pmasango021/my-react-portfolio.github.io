@@ -33,17 +33,17 @@
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
-      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+      "title": "Front-End Development",
+      "description": "Architecturing and Developing Websites and Applications using Web Technologies."
     },
     {
       "id": "2",
-      "title": "Branding",
-      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+      "title": "Back-end Development",
+      "description": "Building and Maintaining websites using various tools, frameworks, and languages to determine how best to develop intuitive, user-friendly prototypes and turn them into websites. Cross-platform functionality and compatibility.\n\n"
     },
     {
       "id": "3",
-      "title": "Web Design",
+      "title": "Full-Stack Development",
       "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
     },
     {
@@ -83,7 +83,7 @@
         "dates": "September 2021 - December 2022",
         "type": "Volunteer",
         "position": "Student Administration at WeThinkCode (Cape Town)",
-        "bullets": "Helped with the administration of the student body including the management of student records student attendanc and student transfers between Cape Town + Johannesburg and Durban campuses"
+        "bullets": "Assisted with the administration of the student body including the management of student records student attendanc and student transfers between Cape Town + Johannesburg and Durban campuses"
       }
     ],
     "education": {
@@ -114,11 +114,12 @@
     "others": [
       "Figma",
       "Git",
-      "Docker",
+      "CI/CD",
       "Vercel",
+      "Docker",
       "Kubernetes",
       "Database Management System (RDMS & DBMS)",
-      "CI/CD",
+      "Databases - MongoDB, MySQL, PostgreSQL, SQLite",
       "Web Frameworks - Spring & Javalin",
       "Build Tools - Maven & Gradle",
       "Testing - JUnit, Mockito, REST Assured, Postman", "pyTest","Unittest/pyUnit",
