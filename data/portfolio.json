@@ -95,11 +95,10 @@
     "languages": [
       "Javascript",
       "HTML5",
-      "CSS & Tailwind CSS",
+      "CSS",
       "Java (OOP)",
       "Python",
       "SQL",
-      "Python",
       "Go (non-proficient)",
       "Dart (non-proficient)",
       "Flutter (non-proficient)"
@@ -123,9 +122,7 @@
       "Databases - MongoDB, MySQL, PostgreSQL, SQLite",
       "Web Frameworks - Spring & Javalin",
       "Build Tools - Maven & Gradle",
-      "Testing - JUnit, Mockito, REST Assured, Postman",
-      "pyTest",
-      "Unittest/pyUnit",
+      "Testing - JUnit, Mockito, REST Assured, Postman, pyTest, Unittest/pyUnit",
       "GraphQL",
       "REST API",
       "Microsoft Azure (learning)",
