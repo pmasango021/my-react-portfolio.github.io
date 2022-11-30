@@ -94,21 +94,21 @@
     },
     "languages": [
       "Javascript",
-      "C++ (non-proficient)",
+      "C++ (OOP)",
       "HTML5",
       "CSS",
       "Java (OOP)",
       "Python",
       "SQL",
-      "Go (non-proficient)",
-      "Dart (non-proficient)",
-      "Flutter (non-proficient)"
+      "Go (Fundamentals)",
+      "Dart (Fundamentals)",
+      "Flutter (Fundamentals)"
     ],
     "frameworks": [
       "React",
       "Next.js",
       "Tailwind CSS",
-      "NodeJs (non-proficient)",
+      "NodeJs (Fundamentals)",
       "Spring",
       "Javalin"
     ],
@@ -126,8 +126,9 @@
       "Testing - JUnit, Mockito, REST Assured, Postman, pyTest, Unittest/pyUnit",
       "GraphQL",
       "REST API",
-      "Microsoft Azure (learning)",
-      "AWS (learning)"
+      "Google Cloud Platform (GCP) - learning",
+      "Microsoft Azure - learning",
+      "Amazon Web Services (AWS) - learning"
     ]
   }
 }
